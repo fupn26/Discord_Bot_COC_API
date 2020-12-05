@@ -11,6 +11,6 @@ pip3 install pyjavaproperties
 ## Usage:
 1. Give your e-mail, password and bot's token in bot.properties file.
 2. Run
-  ```bash
-  python3 discord_bot.py
-  ```
+   ```bash
+   python3 discord_bot.py
+   ```
